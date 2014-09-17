@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for JHSPH Data Science Specialisation on Coursera
+Repository for my JHSPH Data Science Specialisation on Coursera
